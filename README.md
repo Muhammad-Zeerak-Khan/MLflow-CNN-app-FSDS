@@ -26,7 +26,7 @@ source activate ./env
 pip install -r requirements.txt
 ```
 
-### STEp 05- Create conda.yaml
+### STEP 05- Create conda.yaml
 
 ```bash
 conda env export > conda.yaml
