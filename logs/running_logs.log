@@ -1,0 +1,20 @@
+[2023-05-11 16:59:56,319: INFO: stage_01_get_data]: 
+********************
+[2023-05-11 16:59:56,319: INFO: stage_01_get_data]: >>>>> stage GET_DATA started <<<<<
+[2023-05-11 16:59:56,319: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2023-05-11 16:59:56,319: INFO: common]: created directory at: data
+[2023-05-11 16:59:56,319: INFO: stage_01_get_data]: Downloading in progress...
+[2023-05-11 17:06:08,261: INFO: stage_01_get_data]: data.zip created with info 
+ Content-Type: application/octet-stream
+Accept-Ranges: bytes
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-blob-content-md5: 4TekUHNw2UJGm20meiTqBA==
+Last-Modified: Mon, 09 May 2022 20:42:07 GMT
+ETag: "0x8DA31FC621E01C4"
+Content-Length: 824887076
+Date: Thu, 11 May 2023 14:59:56 GMT
+Connection: close
+
+
+[2023-05-11 17:06:08,261: INFO: stage_01_get_data]: >>>>> stage GET_DATA completed!<<<<<
+
