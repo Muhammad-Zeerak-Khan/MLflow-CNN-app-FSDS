@@ -4,3 +4,5 @@ data:
   local_dir : data
   data_filename : data.zip
   unzip_data_dir : data #Currently the data is being extracted at the same filepath. This variable can be changed to move the extracted data elsewhere
+  bad_data_dir : bad_data
+  parent_data_dir : PetImages
