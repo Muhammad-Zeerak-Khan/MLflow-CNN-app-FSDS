@@ -1,4 +1,4 @@
-name: MLflow-CNN
+name: C:\Practice\INeuron\FSDS\MLflow-CNN-app-FSDS\env
 channels:
   - defaults
 dependencies:
@@ -20,7 +20,7 @@ dependencies:
     - cloudpickle==2.2.1
     - colorama==0.4.6
     - databricks-cli==0.17.7
-    - docker==6.1.1
+    - docker==6.1.2
     - entrypoints==0.4
     - flask==2.2.5
     - gitdb==4.0.10
@@ -62,4 +62,4 @@ dependencies:
     - websocket-client==1.5.1
     - werkzeug==2.2.3
     - zipp==3.15.0
-
+prefix: C:\Practice\INeuron\FSDS\MLflow-CNN-app-FSDS\env
